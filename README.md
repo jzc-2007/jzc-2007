@@ -13,7 +13,7 @@ Middle School    5Y        5Y         0      100%      /CHN/Guangdong/Shenzhen/S
    Future       inf         0       inf        0%      /
      
 
-you@my_world: ~$ jzc get_interest --all
+you@my_world: ~$ jzc get-interest --all
 {
   'AI': ['Machine Learning', 'LLM', 'Reasoning', 'Generative Models'],
   'Math': ['Combinatorics', 'Interesting Problems'],
@@ -22,10 +22,10 @@ you@my_world: ~$ jzc get_interest --all
   'Others': [...]
 }
 
-you@my_world: ~$ jzc get_email
+you@my_world: ~$ jzc get-email
 jzc_2007@mit.edu
 
-you@my_world: ~$ jzc get_phone -n
+you@my_world: ~$ jzc get-phone -n
 8576390768
 
 you@my_world: ~$ jzc get-url
