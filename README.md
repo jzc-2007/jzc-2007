@@ -6,7 +6,7 @@ you@my_world: ~$ which jzc
 
 you@my_world: ~$ df -h
 |   Stage   |  Total  |   Used   |  Free  |  Used%  |   Mounted On
-    Baby        10Y       10Y         0      100%      /CHN/Guangdong/Shenzhen
+    Baby        11Y       11Y         0      100%      /CHN/Guangdong/Shenzhen
 Middle School    5Y        5Y         0      100%      /CHN/Guangdong/Shenzhen/SMS
  Pre-College     1Y        1Y         0      100%      /CHN/Beijing/THU/IIIS
   Undergrad      4Y        1Y        3Y       25%      /USA/MA/MIT
